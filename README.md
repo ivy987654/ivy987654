@@ -12,4 +12,6 @@
 | [桌面任务状态灯](https://github.com/ivy987654/desktop-task-light) | 用 RGB 键盘显示任务运行、等待、完成与中断，附模拟事件预览和测试 | [版本下载](https://github.com/ivy987654/desktop-task-light/releases) |
 | [C100 Codex 用量状态灯](https://github.com/ivy987654/c100-codex-meter) | 100 颗灯显示五小时窗口剩余用量，附主机脚本、固件源码与模拟预览 | [版本下载](https://github.com/ivy987654/c100-codex-meter/releases) |
 
+| [Codex 乌萨奇宠物](https://github.com/ivy987654/codex-usagi-pet) | 乌萨奇宠物安装脚本与本机动画播放器，附中文说明和运行截图 | [版本下载](https://github.com/ivy987654/codex-usagi-pet/releases) |
+
 项目页面里提供源码、运行步骤和截图。
