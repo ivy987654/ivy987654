@@ -14,4 +14,6 @@
 
 | [Codex 乌萨奇宠物](https://github.com/ivy987654/codex-usagi-pet) | 乌萨奇宠物安装脚本与本机动画播放器，附中文说明和运行截图 | [版本下载](https://github.com/ivy987654/codex-usagi-pet/releases) |
 
+| [Vibe Coding 开发指南](https://github.com/ivy987654/vibe-coding-guide) | ESP32-S3 RGB 屏开发复盘、问题排查与可复用 SKILL | [版本下载](https://github.com/ivy987654/vibe-coding-guide/releases) |
+
 项目页面里提供源码、运行步骤和截图。
