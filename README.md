@@ -1,16 +1,14 @@
-## Hi there 👋
+# 你好，我是 ivy987654
 
-<!--
-**ivy987654/ivy987654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+某不知名小厂的全栈开发。
 
-Here are some ideas to get you started:
+这里放一些自己折腾过、整理后可以分享的小工具，记录它们能做什么、怎么运行，以及实际的效果。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 项目
+
+| 项目 | 用途 | 源码与下载 |
+| --- | --- | --- |
+| [小耄](https://github.com/ivy987654/esp32) | ESP32-S3 桌面黑胶仪表盘，显示音乐、歌词、天气，并提供猫猫语音助手 | [版本下载](https://github.com/ivy987654/esp32/releases) |
+| [桌面任务状态灯](https://github.com/ivy987654/desktop-task-light) | 用 RGB 键盘显示任务运行、等待、完成与中断，附模拟事件预览和测试 | [版本下载](https://github.com/ivy987654/desktop-task-light/releases) |
+
+项目页面里提供源码、运行步骤和截图。
